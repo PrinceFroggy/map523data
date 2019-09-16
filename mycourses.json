@@ -3,7 +3,8 @@
   "version": "6.6.6",
   "timestamp": "2019-09-16T18:44:29+0000",
   "count": 6,
-  "data": [
+  "data": 
+  [
     { "id": 1, "courseCode": "BCI433", "courseName": "IBM Business Computing" },
     { "id": 2, "courseCode": "DCF255", "courseName": "Data Communications Fundamentals" },
     { "id": 3, "courseCode": "CUL254", "courseName": "Introduction to Visual Culture" },
