@@ -2,7 +2,7 @@
   "student": "Andrew Justin Solesa",
   "version": "6.6.6",
   "timestamp": "2019-09-16T18:44:29+0000",
-  "count": 6,
+  "count": 10,
   "data": 
   [
     { "id": 1, "courseCode": "BCI433", "courseName": "IBM Business Computing" },
@@ -10,6 +10,10 @@
     { "id": 3, "courseCode": "CUL254", "courseName": "Introduction to Visual Culture" },
     { "id": 4, "courseCode": "MAP523", "courseName": "Mobile App Development - iOS" },
     { "id": 5, "courseCode": "CUL255", "courseName": "Rock and Roll: A Cultural History" },
-    { "id": 6, "courseCode": "WEB322", "courseName": "Web Programming Tools and Framework" }
+    { "id": 6, "courseCode": "WEB322", "courseName": "Web Programming Tools and Framework" },
+    { "id": 7, "courseCode": "DBS301", "courseName": "Database Design II & SQL" },
+    { "id": 8, "courseCode": "EAC397", "courseName": "Business Report Writing" },
+    { "id": 9, "courseCode": "JAC444", "courseName": "Intro to Java C++" },
+    { "id": 10, "courseCode": "SYS366", "courseName": "Req. Gath. Using OO Models" }
   ]
 }
